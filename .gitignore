@@ -2,3 +2,4 @@ venv
 
 site/
 generated/
+.DS_Store
