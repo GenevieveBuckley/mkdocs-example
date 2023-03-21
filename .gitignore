@@ -1,4 +1,4 @@
 venv
 
 site/
-docs/docs/generated/
+generated/

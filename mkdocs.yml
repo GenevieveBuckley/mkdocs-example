@@ -5,7 +5,7 @@ site_description: Starter template for a MkDocs docs site on GH Pages - includin
 site_url: https://michaelcurrin.github.io/mkdocs-quickstart/
 
 repo_url: https://github.com/MichaelCurrin/mkdocs-quickstart
-edit_uri: edit/master/docs/docs
+edit_uri: edit/master/docs/
 
 ### Build settings ###
 
